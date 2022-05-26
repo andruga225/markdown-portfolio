@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Some of my hobbies
+* Sport
+  * 🏃 Running
+  * 🎿 Skiing
+  * 🧭 Orienteering
+* Programming 💻
+ 
